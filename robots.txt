@@ -2,3 +2,4 @@ User-agent: *
 Disallow: /assets/
 Disallow: /images/
 Disallow: /vendor/
+Sitemap: https://nicetour.by/sitemap.xml
