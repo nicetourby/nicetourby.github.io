@@ -4711,8 +4711,9 @@ ul.checklist [type="radio"] {
 /*---------- 3.4 Trip Detail ----------*/
 .trip-insight .insight-list-wrap {
   margin: 0 auto;
-  padding: 30px 0 10px;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 30px 0 0px;
+  text-shadow: 5px 3px 10px silver;
+/*  border-bottom: 1px solid rgba(0, 0, 0, 0.1);*/
 }
 .trip-insight .insight-list-wrap .insight-list {
   display: table;
